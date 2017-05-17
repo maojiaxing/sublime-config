@@ -6,6 +6,8 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
+		"CSS Format",
 		"ESLint-Formatter",
 		"Material Theme",
 		"Package Control",
