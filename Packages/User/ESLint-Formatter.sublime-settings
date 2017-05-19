@@ -1,5 +1,12 @@
 {
-	  "config_path": ".eslintrc.js",
-	   "format_on_save": true,
-
+	"config_path": ".eslintrc.js",
+	"format_on_save": true,
+  "format_on_save_extensions": [
+    "js",
+    "jsx",
+    "es",
+    "es6",
+    "babel",
+    "vue"
+  ],
 }

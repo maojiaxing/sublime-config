@@ -9,8 +9,10 @@
 		"Babel",
 		"CSS Format",
 		"ESLint-Formatter",
+		"LESS",
 		"Material Theme",
 		"Package Control",
-		"Vue Syntax Highlight"
+		"Vue Syntax Highlight",
+		"Vuejs Complete Package"
 	]
 }
